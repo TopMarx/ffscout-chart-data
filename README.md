@@ -1,0 +1,1 @@
+# ffscout-chart-data
